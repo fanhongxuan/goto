@@ -10,9 +10,13 @@ A smart cd replace.
    
 # How to use:
   ga: add current dir to the goto history.
+  
   gd: del current dir from the goto history.
+  
   gl: show the goto history.
+  
   gc: clear the goto history.
+  
   g dir: goto a directory, dir can be any part of the goto history, or a real directory. Use tab can auto complete the result.
   
 
